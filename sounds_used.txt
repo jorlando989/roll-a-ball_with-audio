@@ -1,0 +1,31 @@
+Sounds Used:
+	Background Music created in MuseScore
+	
+	Landing Sounds:	(from greg/track 6)
+		land1.wav
+		land2.wav
+		land3.wav
+		
+	Jumping Sounds:	(from set1/track 15)
+		jump1.wav
+		jump2.wav
+		jump3.wav
+		
+	Tier 2 Point Sound and Basic Point Sounds: (from Tatum_Julia/Phone_Ringing_Walker_Lab.wav)
+		long_point.wav
+		short_point1.wav
+		short_point2.wav
+		
+	Rolling Sounds:	(from Leith Reardon and Sam O'Connor/Metal bottle on asphalt.wav and Metal bottle on asphalt 3.wav)
+		roll1.wav
+		roll2.wav
+		roll3.wav
+		
+	Hitting Wall Sounds:	(from Leith Reardon and Sam O'Connor/Footsteps on Gravel.wav)
+		wallhit1.wav
+		wallhit2.wav
+	
+	Water Sounds:
+		underwater.wav (from Leith Reardon and Sam O'Connor/Tree branch shaking.wav)
+		splash_in.wav	(from Jacquelin Orlando/jostling_rocks.wav)
+		splash_out.wav	(from Jacquelin Orlando/jostling_rocks.wav)
